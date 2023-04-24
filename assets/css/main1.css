@@ -1,0 +1,25 @@
+.platform
+{
+    width: 17px;
+    border-radius: 1px;
+}
+.split
+{
+    letter-spacing: 0.2em;
+}
+/*.avatar
+{
+    object-fit: contain;
+}*/
+.avatar2
+{
+    overflow: hidden;
+}
+.memberli
+{
+    transition: all 0.4s;
+}
+.memberli:hover
+{
+    transform: scale(1.05);
+}
